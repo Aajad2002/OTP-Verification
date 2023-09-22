@@ -14,8 +14,6 @@ This project is a Text Analyzer and Search application with both a client-side a
 </div>
 
 <h2 align="center">Technologies Used</h2>
-<h2 align="center">Technologies Used</h2>
-
 <p align="center">
   <b>Frontend</b><br>
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E" alt="react">
